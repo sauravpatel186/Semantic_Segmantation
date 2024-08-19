@@ -1,0 +1,10 @@
+.idea
+__pycache__
+demo/
+outputs/*
+gtFine_trainvaltest/
+leftImg8bit_trainvaltest/
+plot_lr.py
+*.pt
+*.pth
+
